@@ -1,2 +1,3 @@
 We push pull github
 We also add and commit
+we then pull and repeat 
